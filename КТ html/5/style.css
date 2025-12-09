@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+  }
+  
+  .page-footer {
+    background-color: #dbbfff;
+    font-family: 'Segoe UI', Helvetica, sans-serif;
+    padding: 1rem;
+  
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;            
+  }
+  
+  .page-footer p {
+    position: absolute;
+    bottom: 775px;
+    left: 1250px;
+    right: 0;
+    text-align: center;
+  }
+  
+  .page-footer ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .page-footer li {
+    list-style: none;
+  }
+  
+  .page-footer a {
+    color: #8700ff;
+    text-decoration: none;
+  }
